@@ -5,4 +5,5 @@
 -- Questo dataset rappresenta la base per analizzare disponibilità, rotazione dell’inventario
 -- e performance dei distribution centers.
 
-SELECT id, product_id, created_at, sold_at, product_distribution_center_id FROM bigquery-public-data.thelook_ecommerce.inventory_items;
+SELECT id, product_id, created_at, sold_at, product_distribution_center_id 
+FROM bigquery-public-data.thelook_ecommerce.inventory_items;
