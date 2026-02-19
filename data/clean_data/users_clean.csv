@@ -64187,7 +64187,7 @@ id,first_name,last_name,age,gender,state,city,country,traffic_source,age_group
 43678,Stephen,Hernandez,43,M,Nordrhein-Westfalen,Baesweiler,Germany,Search,Adult
 22383,Richard,York,33,M,Nordrhein-Westfalen,Baesweiler,Germany,Search,Adult
 14815,Kevin,Monroe,28,M,Nordrhein-Westfalen,Stolberg,Germany,Search,Adult
-22380,David,Ward,26,M,Nordrhein-Westfalen,Roetgen,Deutschland,Search,Adult
+22380,David,Ward,26,M,Nordrhein-Westfalen,Roetgen,Germany,Search,Adult
 57753,Marcus,Hill,67,M,Nordrhein-Westfalen,Hückelhoven,Germany,Organic,Senior
 66086,Shawn,Davis,48,M,Nordrhein-Westfalen,Hückelhoven,Germany,Search,Middle-aged Adult
 59482,Jerry,Hernandez,37,M,Nordrhein-Westfalen,Hückelhoven,Germany,Search,Adult
@@ -71032,7 +71032,7 @@ id,first_name,last_name,age,gender,state,city,country,traffic_source,age_group
 37819,Cynthia,Bennett,59,F,País Vasco,Rentería,Spain,Search,Middle-aged Adult
 10763,Gina,Smith,66,F,País Vasco,Oyarzun,Spain,Search,Senior
 99932,Barbara,Smith,50,F,País Vasco,Oyarzun,Spain,Facebook,Middle-aged Adult
-5281,Christopher,Andrews,66,M,País Vasco,Hondarribia,España,Search,Senior
+5281,Christopher,Andrews,66,M,País Vasco,Hondarribia,Spain,Search,Senior
 82066,Christine,Hale,23,F,País Vasco,Hondarribia,Spain,Email,Young
 97053,Michael,Johnson,60,M,País Vasco,Irún,Spain,Email,Middle-aged Adult
 89712,Matthew,Reynolds,45,M,País Vasco,Irún,Spain,Search,Middle-aged Adult

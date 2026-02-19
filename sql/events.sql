@@ -7,7 +7,7 @@
 --            diminuire drasticamente la dimensione della tabella events.
 
 
-SELECT a.*, b.event_type, b.traffic_source, b.state
+SELECT a.*, b.event_type, b.traffic_source, b.state, b.created_at
 FROM(
 SELECT session_id, user_id, MAX(sequence_number) AS finish
 FROM bigquery-public-data.thelook_ecommerce.events
