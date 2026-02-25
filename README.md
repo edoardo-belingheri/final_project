@@ -27,6 +27,15 @@ Il progetto richiedeva di:
 
 ---
 
+## 🗄️ SQL Analysis
+
+La cartella `sql/` contiene tutte le query utilizzate per:
+- estrarre i dati dal dataset pubblico TheLook eCommerce  
+
+Le query sono state eseguite in Google BigQuery.
+
+---
+
 ## 🧹 Data Cleaning
 
 La fase di pulizia ha incluso:
@@ -57,15 +66,6 @@ Gli insight sono disponibili nel notebook `analisi_iniziali.ipynb`.
 
 ---
 
-## 🗄️ SQL Analysis
-
-La cartella `sql/` contiene tutte le query utilizzate per:
-- estrarre i dati dal dataset pubblico TheLook eCommerce  
-
-Le query sono state eseguite in Google BigQuery.
-
----
-
 ## 📊 Dashboard in Power BI
 
 La dashboard finale include:
@@ -73,19 +73,17 @@ La dashboard finale include:
 - KPI principali (profit, conversion rate, revenue)  
 - analisi per Paese, device e canale  
 - performance dei prodotti  
-- stato dell’inventario e criticità dei distribution centers  
+- stato dell’inventario e caratteristiche dei distribution centers  
 - segmentazioni per età, genere e comportamento utente  
 
 Il file `progetto_finale.pbix` è disponibile nella cartella `dashboard/`.
 
 ---
 
-## 🧪 Test statistico: Permutation Test (2025)
+## 🧪 Test statistico: Permutation Test
 
 Per rispondere a una richiesta del team marketing, 
 è stato condotto un **permutation test** per verificare se la differenza di conversion rate tra **Germania** e **Cina** fosse statisticamente significativa.
-
-### Perché solo il 2025?
 
 Per garantire omogeneità temporale ed evitare effetti di stagionalità o cambiamenti strutturali, l’analisi è stata limitata alle sole sessioni dell’anno **2025**, rendendo il confronto più affidabile.
 
