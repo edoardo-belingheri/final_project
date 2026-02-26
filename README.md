@@ -71,7 +71,7 @@ Gli insight sono disponibili nel notebook `analisi_iniziali.ipynb`.
 La dashboard finale include:
 
 - KPI principali (profit, conversion rate, revenue)  
-- analisi per Paese, device e canale  
+- analisi per Paese e canale  
 - performance dei prodotti  
 - stato dell’inventario e caratteristiche dei distribution centers  
 - segmentazioni per età, genere e comportamento utente  
